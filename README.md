@@ -11,7 +11,7 @@
 3.	Open API used for question fetching. “https://opentdb.com/api_config.php”
 
 
-Lohin Screen            |  Quuz Page
+Login Screen            |  Quiz Page
 :-------------------------:|:-------------------------:
 <img src="https://github.com/nusayer/quizi-quiz/blob/master/images/Screenshot_20200707-073022.jpg" width="700">  |  <img src="https://github.com/nusayer/quizi-quiz/blob/master/images/Screenshot_20200707-073044.jpg" width="700">
 
