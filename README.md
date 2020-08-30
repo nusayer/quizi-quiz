@@ -15,3 +15,5 @@ Login Screen            |  Quiz Page
 :-------------------------:|:-------------------------:
 <img src="https://github.com/nusayer/quizi-quiz/blob/master/images/Screenshot_20200707-073022.jpg" width="700">  |  <img src="https://github.com/nusayer/quizi-quiz/blob/master/images/Screenshot_20200707-073044.jpg" width="700">
 
+![](20200830_082907[1].gif)
+
